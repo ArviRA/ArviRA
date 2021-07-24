@@ -4,7 +4,7 @@
 Hi, I'm Arvindh, a Developer 🚀 and a programmer 👨🏽‍💻 from India. Enthusiastic, self driven and highly-motivated
 Software Engineer.
 
- <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif"  width="520" height="320" />
+ <img align="right" alt="GIF" src="https://media.giphy.com/media/MT5UUV1d4CXE2A37Dg/giphy.gif"  width="500" height="350" />
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:
 - 🌱 I’m currently learning React.js
