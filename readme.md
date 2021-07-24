@@ -6,8 +6,7 @@ Software Engineer.
 
  <img align="right" alt="GIF" src="https://media.giphy.com/media/MT5UUV1d4CXE2A37Dg/giphy.gif"  width="500" height="350" />
 
-- 👨🏽‍💻 I’m currently working on something cool :wink:
-- 🌱 I’m currently learning React.js
+- 👨🏽‍💻 I’m currently learning something cool :wink:
 - 🚪  Looking for Opportunities.   
 - 📝 [Resume](https://drive.google.com/file/d/1YDplCJetF5MDcqXi1StYN9MA4e4oWmLh/view?usp=sharing)
 
