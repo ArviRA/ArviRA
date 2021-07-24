@@ -15,21 +15,22 @@ Software Engineer.
 -  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 
-
 -  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
- <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
+  <code><img height="40" src="https://www.freepnglogos.com/uploads/javascript/javascript-online-logo-for-website-0.png"></code>
+  <code><img height="40" src="https://www.freeiconspng.com/uploads/c--logo-icon-0.png"></code>
+  <code><img height="40" src="https://iconape.com/wp-content/files/ap/353147/png/c-programming-language-logo.png"></code>
 
--  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
+
+-  <code><img height="40" src="https://cdn.iconscout.com/icon/free/png-512/django-11-1175036.png"></code>
+   <code><img height="40" src="https://cfrichardson.info/static/flasks.png"></code>
 
 
 
 -  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
+  <code><img height="40" src="https://camo.githubusercontent.com/3cf0a4d37188cd2823018477351adb5acf47a3151c57bc2de6c4536409b19717/68747470733a2f2f63646e2e66726565626965737570706c792e636f6d2f6c6f676f732f6c617267652f32782f6d7973716c2d6c6f676f2d706e672d7472616e73706172656e742e706e67"></code>
+  <code><img height="40" src="https://camo.githubusercontent.com/03cb3c7034c2a3f744fc989e75bb8c4d0d5c0b3f0b6df25e36cca1c9a91ad23b/68747470733a2f2f313030306c6f676f732e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f30382f4d6f6e676f44422d4c6f676f2e706e67"></code>
 
--  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+-  <code><img height="40" src="https://camo.githubusercontent.com/ff593d2a8c108a81519b8741158e1dbe2422f70522419195e045626161da49e0/68747470733a2f2f63646e2e66726565626965737570706c792e636f6d2f6c6f676f732f6c617267652f32782f6769742d6c6f676f2d706e672d7472616e73706172656e742e706e67"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/opencv/opencv.png"></code>
 
 
